@@ -1,1 +1,1 @@
-# replit_algorithm
+# python_algorithm
